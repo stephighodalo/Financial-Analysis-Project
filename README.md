@@ -1,53 +1,100 @@
 # Financial-Analysis-Project
 
+## Project Overview
 
-## Overview
+This project involved designing and developing an interactive Finance Analytics Dashboard in Power BI for a financial organization seeking to improve visibility into transaction performance, customer behavior, operational fees, taxes, and regional business performance.
 
-This project focuses on analyzing business data to identify trends, patterns, and opportunities for improvement. The analysis was conducted using industry-standard data analytics techniques, including data cleaning, transformation, exploratory data analysis, and visualization.
+The dashboard provides a centralized reporting solution that enables stakeholders to monitor key financial KPIs, analyze transaction trends, evaluate customer segments, and support data-driven business decisions through dynamic filtering and drill-down capabilities.
 
-## Objectives
+## Business Problem
 
-* Clean and prepare raw data for analysis
-* Explore customer and business performance trends
-* Identify key drivers of growth and performance
-* Generate actionable business insights
-* Present findings through visualizations and reports
+The organization faced challenges in effectively tracking:
 
-## Tools & Technologies
+* Overall transaction growth and financial performance
+* Monthly transaction trends
+* Successful, failed, and pending transactions
+* Customer segment contribution to revenue
+* State-level financial performance
+* Transaction type profitability
+* Customer demographic insights
+* Year-over-Year (YoY) performance changes
 
-* SQL
+The absence of a centralized reporting solution made it difficult for management to identify growth opportunities and monitor operational efficiency.
+
+## Solution
+
+Developed a fully interactive Power BI dashboard that consolidates financial transaction data into actionable insights through KPI monitoring, trend analysis, and performance visualization.
+
+Users can dynamically filter results by:
+
+* Year
+* Occupation
+* Customer Category
+* Dynamic Measures
+
+The solution also includes drill-through functionality, allowing users to investigate underlying transaction records for deeper analysis.
+
+## Key KPIs
+
+* Total Transaction Amount
+* Total Transactions
+* Average Transaction Value
+* Total Fees Collected
+* Total Tax Generated
+* Year-over-Year Growth Analysis
+
+## Dashboard Features
+
+### Financial Performance Analysis
+
+* Monthly transaction amount trend analysis
+* Year-over-Year performance tracking
+* Growth monitoring across reporting periods
+
+### Transaction Performance Monitoring
+
+* Analysis of Successful, Failed, and Pending transactions
+* Operational efficiency assessment
+* Transaction volume tracking
+
+### Customer Analytics
+
+* Customer segment performance analysis
+* Gender-based transaction analysis
+* Identification of high-value customer groups
+
+### Regional Performance Analysis
+
+* State-wise transaction performance comparison
+* Identification of top-performing regions
+
+### Transaction Profitability Analysis
+
+* Performance breakdown by transaction type
+* Analysis of transaction amounts, fees, taxes, and transaction counts
+* Profitability assessment across financial products and services
+
+## Tools Used
+
+* Power BI
 * Power Query
-* Power BI 
-
-## Project Workflow
-
-1. Data Collection
-2. Data Cleaning and Preparation
-3. Exploratory Data Analysis (EDA)
-4. Data Visualization
-5. Insight Generation
-
-## Key Insights
-
-* Identified major trends affecting business performance.
-* Discovered customer behavior patterns and purchasing trends.
-* Highlighted opportunities to improve operational efficiency.
-* Provided data-driven recommendations to support decision-making.
+* DAX
+* Data Modeling
+* Interactive Visualizations
 
 ## Skills Demonstrated
 
-* Data Cleaning
-* Data Analysis
+* Business Intelligence Reporting
+* Financial Data Analysis
+* KPI Development
+* Data Modeling
+* DAX Calculations
+* Dashboard Design
 * Data Visualization
-* Business Intelligence
-* Problem Solving
-* Reporting and Communication
+* Stakeholder Reporting
+* Drill-Through Analysis
 
-## Project Outcome
+## Business Impact
 
-The analysis transformed raw data into actionable insights, enabling stakeholders to make informed business decisions and better understand performance trends.
+The dashboard provides management with real-time visibility into financial performance, customer behavior, and operational metrics, enabling faster decision-making, improved performance monitoring, and more effective strategic planning.
 
-## Author
-
-Stephanie Ighodalo
-Aspiring Data Analyst | Business Intelligence Enthusiast | Data-Driven Problem Solver
