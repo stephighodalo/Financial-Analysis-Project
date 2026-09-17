@@ -6,6 +6,8 @@ This project involved designing and developing an interactive Finance Analytics 
 
 The dashboard provides a centralized reporting solution that enables stakeholders to monitor key financial KPIs, analyze transaction trends, evaluate customer segments, and support data-driven business decisions through dynamic filtering and drill-down capabilities.
 
+![](https://github.com/stephighodalo/Financial-Analysis-Project/blob/main/Imgs_used/Fintek_dashboard.png)
+
 ## Business Problem
 
 The organization faced challenges in effectively tracking:
